@@ -1,6 +1,6 @@
 name: Manual Workflow Demo
 
-on:
+#on:
   workflow_dispatch:
     inputs:
       name:
